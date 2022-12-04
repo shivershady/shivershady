@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/shivershady/shivershady/blob/master/devcard.svg" width="400" alt="Hoàng Hiếu's Dev Card"/></a>
+<a href="https://app.daily.dev/hoanghieu347"><img src="https://github.com/shivershady/shivershady/master/devcard.svg" width="400" alt="Hoàng Hiếu's Dev Card"/></a>
